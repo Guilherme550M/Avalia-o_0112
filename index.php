@@ -6,10 +6,11 @@ function stringParaBinario ($string) {
     }
     return $binario;
 }
-    $frase = "Lucas Alvim dos Santos Batista";
+    $frase = "Guilherme Moraes";
     $fraseBinario = stringParaBinario ($frase);
 
     echo "Frase original:" . $frase . "<br>";
     echo "Frase em binário:" . $fraseBinario;
+
 
 ?>
